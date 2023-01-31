@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;1,300&family=Noto+Color+Emoji&family=Raleway:ital,wght@0,400;0,700;1,300&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">    
+    <title>Mars Design Platte</title>
+</head>
+<body>
+    <header>
+        <h1>Mars Website Desingn Inspo</h1>
+    </header>
+    <main>
+        <div class="fav_colors">
+            <p class="titles">Fav Colors</p>
+            <div>
+                <div class="color1">
+                    <p>Aero Blue<br><br>#c4e7d4</p>
+                    <button class="copy_btn">Click Me</button>
+                </div>
+                <div class="color2">
+                    <p>Red Plum<br><br>#7d2941</p>
+                    <button class="copy_btn">Click Me</button>
+                </div>
+                <div class="color3">
+                    <p>Swiss Chocolate<br><br>#706659</p>
+                    <button class="copy_btn">Click Me</button>                
+                </div>
+                <div class="color4">
+                    <p>French Vanilla<br><br>#EFE1A7</p>
+                    <button class="copy_btn">Click Me</button>                
+                </div>
+                <div class="color5">
+                    <p>Arctic Paradise<br><br>#A1CDEC</p>
+                    <button class="copy_btn">Click Me</button>                
+                </div>
+                <div class="color6">
+                    <p>Shakespeare<br><br>#53A7D8</p>
+                    <button class="copy_btn">Click Me</button>                
+                </div>
+            </div>
+        </div>
+        <div class="fav_fonts">
+            <p class="titles">Fav Fonts</p>
+            <div class="roboto" id="text-box">
+                <p style="text-decoration: underline;font-weight: bold;">Roboto</p>
+                <p class="thin-italic">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="bold">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="regular">Popcorn chicken from Taiwan. Chicken watch!</p>
+            </div>
+            <div class="montserrat" id="text-box">
+                <p style="text-decoration: underline; font-weight: bold;">Montserrat</p>
+                <p class="thin-italic">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="bold">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="regular">Popcorn chicken from Taiwan. Chicken watch!</p>
+            </div>
+            <div class="raleway" id="text-box">
+                <p style="text-decoration: underline; font-weight: bold;">Raleway</p>
+                <p class="thin-italic">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="bold">Popcorn chicken from Taiwan. Chicken watch!</p>
+                <p class="regular">Popcorn chicken from Taiwan. Chicken watch!</p>
+            </div>
+        </div>
+        <div class="text_styles">
+            <p class="titles">Text Styles</p>
+            <h1>H1: Main page heading</h1>
+            <ul>
+                <li>Font-weight: 700px (bold)</li>
+                <li>Font-size: 26px</li>
+                <li>Font-family: Roboto</li>
+            </ul>
+            <h2>H2: Subheading</h2>
+            <ul>
+                <li>Font-weight: 500px</li>
+                <li>Font-size: 18px</li>
+                <li>Font-family: Roboto</li>
+            </ul>
+            <p id="p">P:Paragraph</p>
+            <ul>
+                <li>Font-weight: 400px (regular)</li>
+                <li>Font-size: 14px</li>
+                <li>Font-family: Roboto</li>
+            </ul>
+        </div>
+    </main>
+    
+</body>
+</html>
